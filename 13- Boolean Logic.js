@@ -33,3 +33,19 @@ if (isRaining || hasUmbrella) {
 } else {
     console.log("You might get wet.");
 }
+
+//NOT Operator example
+let isOpen = false;
+if (!isOpen) {
+    console.log("The shop is closed.");
+} else {
+    console.log("The shop is open.");
+}
+
+// Example 2
+let hasPermission = true;
+if (!hasPermission) {
+    console.log("You don't have permission to access this resource.");
+} else {
+    console.log("You have permission to access this resource.");
+}
