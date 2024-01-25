@@ -22,3 +22,5 @@ console.log(tip2)
 
 //task 2. console log bill, tip, and final bill + tip in a string
 console.log(`The bill is ${bill}, the tip is ${tip2}, and the final bill is ${bill + tip2}!`)
+
+//for some reason in the udemy code IDE, it doesn't register my 2nd task, even though I completed it. 
